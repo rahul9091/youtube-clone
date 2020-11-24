@@ -2,6 +2,8 @@
 
 ## Screenshots
 
+[![Whats-App-Image-2020-11-24-at-1-28-50-PM-8.jpg](https://i.postimg.cc/bYT5PK9f/Whats-App-Image-2020-11-24-at-1-28-50-PM-8.jpg)](https://postimg.cc/V5JgBZhK)
+
 [Whats-App-Image-2020-11-24-at-1-28-50-PM.jpg](https://postimg.cc/7CJn45yS)
 
 [Whats-App-Image-2020-11-24-at-1-28-50-PM-2.jpg](https://postimg.cc/RqTSdGnn)
