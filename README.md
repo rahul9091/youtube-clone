@@ -1,4 +1,5 @@
 ### youtube-clone
+This project is a mobile Application built on React Native, Using Youtube API from youtube developer console. This has many functionalities like Dark mode, Navigation, Dynamic search, Play/Pause/Rewind etc.
 
 ## Screenshots
 
